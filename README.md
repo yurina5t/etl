@@ -4,8 +4,8 @@
 2. Далее объединяем две таблицы в одну.
 3. Для этой таблицы считаем все эти метрики в разрезе по полу, возрасту и ос. Делаем три разных таска на каждый срез.
 4. И финальные данные со всеми метриками записываем в отдельную таблицу в ClickHouse.
-5. Каждый день таблица должна дополняться новыми данными.
+5. Каждый день таблица дополняется новыми данными.
 
 
 <img width="1507" alt="DAG_etl_table" src="https://github.com/yurina5t/etl/assets/93882842/2589dec7-021c-4117-b31b-643cc091a804">
-<img width="1511" alt="DAG" src="https://github.com/yurina5t/etl/assets/93882842/b97324ac-6a00-438a-b0c9-c2d4c5be2865">
+<img width="1511" alt="dag_ayurina_full_report" src="https://github.com/yurina5t/etl/assets/93882842/cac183d8-eba2-4a2e-8407-2780ae65c128">
