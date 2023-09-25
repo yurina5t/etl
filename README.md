@@ -8,4 +8,4 @@
 
 
 <img width="1507" alt="DAG_etl_table" src="https://github.com/yurina5t/etl/assets/93882842/2589dec7-021c-4117-b31b-643cc091a804">
-<img width="1511" alt="dag_ayurina_full_report" src="https://github.com/yurina5t/etl/assets/93882842/cac183d8-eba2-4a2e-8407-2780ae65c128">
+<img width="1465" alt="dag_ayurina_etl" src="https://github.com/yurina5t/etl/assets/93882842/bd6c94f1-807c-4d75-9baf-369f1697311a">
